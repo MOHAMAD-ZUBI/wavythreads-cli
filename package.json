@@ -1,0 +1,23 @@
+{
+  "name": "wavythreads-cli",
+  "version": "1.0.7",
+  "description": "A CLI tool to automate setup of backend projects",
+  "main": "index.js",
+  "bin": {
+    "wavythreads-cli": "./bin/wavythreads-cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "tool",
+    "backend",
+    "setup"
+  ],
+  "author": "Mohamad Zubi",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^8.3.0"
+  }
+}
