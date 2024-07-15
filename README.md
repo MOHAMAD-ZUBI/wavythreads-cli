@@ -1,6 +1,3 @@
-Here's the MD snippet:
-
-Markdown
 
 ## WavyThreads CLI
 
